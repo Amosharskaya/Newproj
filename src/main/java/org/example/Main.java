@@ -8,12 +8,12 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("Hello and welcome!");
         method1();
-        System.out.println("GIT Welcome!");
-        System.out.printf("The END!");
+        System.out.println("GIT New branch!");
+        System.out.println("The END!");
     }
 
     public static void method1() {
-        for (int i = 1; i <= 5; i++) {
+        for (int i = 1; i <= 15; i++) {
             System.out.println("i = " + i);
         }
     }

@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Hello and welcome!");
         method1();
         System.out.println("GIT USER2!");
-        System.out.printf("The END!");
+        System.out.println("The END!");
     }
 
     public static void method1() {
